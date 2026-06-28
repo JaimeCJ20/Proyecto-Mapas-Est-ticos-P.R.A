@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="marcador5" size="100.000000 75.000000" />
+    <ImageTarget name="marcador8" size="100.000000 149.053864" />
+    <ImageTarget name="marcador7" size="100.000000 54.589844" />
+    <ImageTarget name="esanlogo" size="100.000000 100.000000" />
+    <ImageTarget name="marcador4" size="100.000000 101.764709" />
+    <ImageTarget name="esan" size="100.000000 54.336044" />
+    <ImageTarget name="labdequimicayfisica" size="100.000000 75.000000" />
+    <ImageTarget name="estacionamiento" size="100.000000 75.000000" />
+    <ImageTarget name="piso9" size="100.000000 75.000000" />
+    <ImageTarget name="edificiod" size="100.000000 75.000000" />
+    <ImageTarget name="parroquia" size="100.000000 75.000000" />
+    <ImageTarget name="jacintoycornela" size="100.000000 75.000000" />
+    <ImageTarget name="marcador3" size="100.000000 100.000000" />
+    <ImageTarget name="marcador2" size="100.000000 100.305809" />
+    <ImageTarget name="marcador1" size="100.000000 76.809212" />
+  </Tracking>
+</QCARConfig>
